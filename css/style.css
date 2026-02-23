@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(152, 195, 236);
+    font-family: normal 20pt Arial, Helvetica, sans-serif;
+    color: black;
+}
+header h1 {
+    font-family: "Comic Sans MS", cursive;
+}
+
+header {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    width: 400px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+select, input[type="button"] {
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 12px;
+}

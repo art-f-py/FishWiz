@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FishWiz</title>
+    <link rel="stylesheet" href="css/style.css">
+    
+</head>
+<body>
+    <header>
+        <h1>FishWiz</h1>
+        <p>Seu assistente de pesca inteligente</p>
+    </header>
+    <section>
+        <div>
+            <select id="idespecie">
+                <option value="">Selecione a espécie</option>
+                <option value="bagre">Bagre</option>
+                <option value="dourado">Dourado</option>
+                <option value="jundia">Jundiá</option>
+                <option value="papaterra">Papa-terra</option>
+                <option value="traira">Traíra</option>
+
+            </select>
+            <input type="button" value="Ok" onclick="adicionar()">
+        </div>
+        <br><br><div id = "resultado"></div>
+    </section>
+    <footer>
+        <p>&copy; Artur Feijó</p>
+    </footer>
+    <script src="js/data.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
