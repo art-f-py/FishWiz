@@ -1,6 +1,6 @@
 body {
     background-color: rgb(152, 195, 236);
-    font-family: normal 20pt Arial, Helvetica, sans-serif;
+    font-family: normal 40pt Arial, Helvetica, sans-serif;
     color: black;
 }
 header h1 {
@@ -19,6 +19,7 @@ section {
     margin: 20px auto;
     padding: 15px;
     border: 2px solid black;
+    size: 50px;
 }
 
 select, input[type="button"] {
@@ -30,4 +31,12 @@ select, input[type="button"] {
 footer {
     margin-top: 20px;
     font-size: 12px;
+}
+
+#resultado {
+  font-size: 18px;
+}
+
+#select {
+    width: 150px;
 }
