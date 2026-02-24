@@ -1,4 +1,4 @@
-# 🎣 FishWiz
+# FishWiz
 
 FishWiz é uma aplicação web simples desenvolvida em JavaScript puro para auxiliar na seleção de espécies de peixes por estado, exibindo informações técnicas e recomendações de equipamento.
 
@@ -6,13 +6,13 @@ Projeto desenvolvido com foco em aprendizado de lógica, organização de códig
 
 ---
 
-## 🚀 Demo
+## Demo
 
 🔗 (https://art-f-py.github.io/FishWiz/)
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Seleção dinâmica de estados
 - Seleção dinâmica de espécies
@@ -27,7 +27,7 @@ Projeto desenvolvido com foco em aprendizado de lógica, organização de códig
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
@@ -37,7 +37,8 @@ Projeto desenvolvido com foco em aprendizado de lógica, organização de códig
 
 ---
 
-## 📦 Estrutura do projeto
+## Estrutura do projeto
+
 FishWiz/
 │
 ├── index.html
@@ -46,9 +47,10 @@ FishWiz/
 │ ├── data.js
 │ └── script.js
 └── eslint.config.mjs
+
 ---
 
-## 🧠 Objetivo do projeto
+## Objetivo do projeto
 
 Este projeto foi desenvolvido como ferramenta prática de aprendizado para:
 
@@ -66,16 +68,6 @@ v2.0
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
-Artur Feijó---
-
-## 🧠 Objetivo do projeto
-
-Este projeto foi desenvolvido como ferramenta prática de aprendizado para:
-
-- Manipulação de DOM
-- Organização de dados em objetos
-- Estruturação de projeto
-- Controle de versão com Git
-- Padronização de código com ESLint
+Artur Feijó
