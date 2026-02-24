@@ -36,7 +36,7 @@ const estados = {
                 nome: "Papa-terra",
                 ambiente: "Praia",
                 isca: "Marisco, camarão, minhoca",
-                vara: "Ação média-rápida, 2.70m, 20-40lbs",
+                vara: "Ação rápida, 2.70m, 20-40lbs",
                 linha: "Monofilamento, 0.35mm, 30-40lbs",
                 caster: "Molinete 3000-4000",
                 imagem: "img/papaterra.webp"
