@@ -8,7 +8,7 @@ Projeto desenvolvido com foco em aprendizado de lógica, organização de códig
 
 ## 🚀 Demo
 
-🔗 ()
+🔗 (https://art-f-py.github.io/FishWiz/)
 
 ---
 
