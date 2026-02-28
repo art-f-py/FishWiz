@@ -8,7 +8,7 @@ Projeto desenvolvido com foco em aprendizado de lógica, organização de códig
 
 ## 🚀 Demo
 
-🔗 (https://art-f-py.github.io/FishWiz/)
+🔗 https://art-f-py.github.io/FishWiz/
 
 ---
 
@@ -24,6 +24,7 @@ Projeto desenvolvido com foco em aprendizado de lógica, organização de códig
   - Caster
 - Exibição de imagem da espécie
 - Código padronizado com ESLint
+- Layout responsivo com Bootstrap 5
 
 ---
 
@@ -32,20 +33,23 @@ Projeto desenvolvido com foco em aprendizado de lógica, organização de códig
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
+- Bootstrap 5
 - ESLint
 - Git & GitHub
 
 ---
 
 ## 📦 Estrutura do projeto
+
 FishWiz/
 │
 ├── index.html
 ├── css/
 ├── js/
-│ ├── data.js
-│ └── script.js
+│   ├── data.js
+│   └── script.js
 └── eslint.config.mjs
+
 ---
 
 ## 🧠 Objetivo do projeto
@@ -57,25 +61,16 @@ Este projeto foi desenvolvido como ferramenta prática de aprendizado para:
 - Estruturação de projeto
 - Controle de versão com Git
 - Padronização de código com ESLint
+- Organização de layout com framework CSS
 
 ---
 
 ## 📌 Versão atual
 
-v2.0
+v2.1
 
 ---
 
 ## 👨‍💻 Autor
 
-Artur Feijó---
-
-## 🧠 Objetivo do projeto
-
-Este projeto foi desenvolvido como ferramenta prática de aprendizado para:
-
-- Manipulação de DOM
-- Organização de dados em objetos
-- Estruturação de projeto
-- Controle de versão com Git
-- Padronização de código com ESLint
+Artur Feijó
